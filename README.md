@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Antidote Health**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning *DSA & Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Reactive-Karan](https://github.com/Reactive-Karan)
 
