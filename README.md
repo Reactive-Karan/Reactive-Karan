@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/karanmishra22" target="blank"><img src="https://img.shields.io/twitter/follow/karanmishra22?logo=twitter&style=for-the-badge" alt="karanmishra22" /></a> </p>
 
-- 🔭 I’m currently working on **Antidote Health**
+- 🔭 I’m currently working on **SynApp**
 
 - 🌱 I’m currently learning **DSA & Node.js**
 
